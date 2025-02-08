@@ -88,8 +88,8 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ## **📩 Connect With Me**
-💼 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**  
-📧 **your-email@example.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/yasirzargar)**  
+📧 **zargaryasir@gmail.com**  
 
 🚀 Let’s automate more and work smarter!  
 
