@@ -1,6 +1,6 @@
 
 
-# Excel2Cert Maker 🚀  
+# Excel2Cert 🚀  
 ### Automate Certificate Generation from Excel Data 
 
 **Excel2Cert Maker** is a simple yet powerful tool that automates certificate creation by extracting data from an **Excel sheet** and overlaying it onto a **PDF certificate template**.  
