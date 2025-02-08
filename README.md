@@ -94,5 +94,3 @@ This project is **open-source** under the **MIT License**.
 🚀 Let’s automate more and work smarter!  
 
 ---
-
-### **Would you like me to help set up GitHub actions for automated execution?** 😊
