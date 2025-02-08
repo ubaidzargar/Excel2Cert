@@ -33,7 +33,7 @@ pip install pandas pymupdf reportlab openpyxl
 
 2. **Run the Script**
 ```sh
-python generate_certificates.py
+python script.py
 ```
 
 3. **Output**
